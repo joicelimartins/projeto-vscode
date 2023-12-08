@@ -3,4 +3,11 @@ h1{
 }
 p{
     color:aqua;
+    font-size: 25px;
+    font-family: cursive;
+    text-align: justify;
+}
+
+body  {
+   background-color: rgb(206, 243, 170);
 }
